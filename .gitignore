@@ -1,0 +1,10 @@
+.venv
+.vscode
+.idea
+
+*.log
+*.csv
+*.css
+*.json
+
+Pipfile*
